@@ -1,5 +1,3 @@
-Configurar uma pesquisa dentro do Azure envolve a criação de um serviço de busca que permita indexar, consultar e exibir dados de forma rápida e eficiente. Abaixo está um passo a passo para configurar uma pesquisa no Azure, seguido de uma descrição das ferramentas que podem se beneficiar desse serviço:
-
 # Passo a Passo para Configurar uma Pesquisa no Azure
 
 1. Criação do Serviço de Pesquisa do Azure
@@ -70,3 +68,5 @@ Assistentes Virtuais e Bots;
 E-commerce;
 
 Gestão de Documentos.
+
+# Palavras-Chaves: Dados, Consultas, Indexação, APIs.
